@@ -6,7 +6,7 @@ export const site = {
   intro:
     '一个为爱发电的开发者，干一些自己喜欢干的事情，写一些自己喜欢的项目。这里是 lovely-euglena 组织的站点入口。',
   links: {
-    gitea: 'https://git.ygwill.asia',
+    gitea: 'https://git.ygwill.top',
     gitee: 'https://gitee.com/ygwill',
     github: 'https://github.com/Ygwill',
     mail: 'Each13579@hotmail.com',
